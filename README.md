@@ -17,3 +17,5 @@
 9. Check the status of your local repository
 10. Pull and merge your changes in your local repository
 11. Check your commit history again
+
+12. Do some stupid stuff and get troubled
